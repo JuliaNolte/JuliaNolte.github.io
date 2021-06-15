@@ -14,14 +14,14 @@ Education
 * 2023 Ph.D. in Developmental Psychology, Cornell University (Expected)
 * 2020 M.A. in Developmental Psychology, Cornell University
 * 2017 M.Sc. in Psychology, Heidelberg University
-* 2015 - 2016 Exchange Student & Fulbright Scholar, Department of Human Development, Cornell University 
+* 2015 - 2016 Exchange Student & Fulbright Scholar, Dept. Human Development, Cornell University 
 * 2014 B.Sc. in Psychology, Heidelberg University
 
 Professional and Research Experience
 ======
 * 2017 - present
   * **Department of Human Development, Cornell University**
-  * Healthy Aging Laboratory (Prof. Corinna E. Löckenhoff) – Advisee 
+    * Healthy Aging Laboratory (Prof. Corinna E. Löckenhoff) – Advisee 
 
 * 2020 - present
   * **Department of Human Development, Cornell University**
