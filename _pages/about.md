@@ -10,9 +10,6 @@ redirect_from:
 
 Hi! I am a Ph.D. Student at Cornell University's Department of Human Development (now known as the new Cross-College Department of Psychology).
 
-**About Me**
-=====
-
 I first joined the Human Development Department as Cornell’s 2015-2016 Heidelberg Exchange Fellow and a Fulbright grantee. In 2017, I returned to Cornell to obtain a Ph.D. in Developmental Psychology with Dr. Corinna Löckenhoff.
 
 My research interests span risk perception, decision making, lifespan development, and health. At the moment, I am working on tailoring health and risk information to the processing preferences of different age and patient groups. This work has earned me the 2017 Margaret Holmes-Rovner Award for Decision Psychology and Shared Decision Making (commonly known as the Society for Medical Decision Making's Lee B. Lusted Student Prize).
