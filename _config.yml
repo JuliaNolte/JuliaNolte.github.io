@@ -85,8 +85,8 @@ author:
   bio              : "Psychology Ph.D. student at Cornell University with an interest in decision making, aging, & health | University of Heidelberg alumna |She / her|"
   location         : "Ithaca, NY"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "JuliaNolte"
   google_plus      :
   keybase          :
   instagram        :
