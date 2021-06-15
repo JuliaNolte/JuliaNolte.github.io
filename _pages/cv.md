@@ -14,7 +14,7 @@ Education
 * 2023 Ph.D. in Developmental Psychology, Cornell University (Expected)
 * 2020 M.A. in Developmental Psychology, Cornell University
 * 2017 M.Sc. in Psychology, Heidelberg University
-* 2015 - 2016 Exchange Student & Fulbright Scholar, Dept. Human Development, Cornell University 
+* 2015 - 2016 Exchange Student & Fulbright Scholar, Cornell University 
 * 2014 B.Sc. in Psychology, Heidelberg University
 
 Professional and Research Experience
@@ -25,39 +25,39 @@ Professional and Research Experience
 
 * 2020 - present
   * **Department of Human Development, Cornell University**
-  * Graduate research assistant to Prof. Karl A. Pillemer
+    * Graduate research assistant to Prof. Karl A. Pillemer
 
 * 2017 
   * **Department of Pure Mathematics & Math. Statistics, University of Cambridge**
-  * Winton Centre for Risk & Evidence Communication (Prof. D. Spiegelhalter)
-  * Summer research scholar
+    * Winton Centre for Risk & Evidence Communication (Prof. D. Spiegelhalter)
+    * Summer research scholar
   
 * 2016
   * **Department of Experimental Psychology, University of Oxford** 
-  * Cognition and Health Research Group (Prof. Maryanne Martin)
-  * Academic visitor 
+    * Cognition and Health Research Group (Prof. Maryanne Martin)
+    * Academic visitor 
 
   * **Department of Psychology, Harvard University**
-  * Clinical and Developmental Psychology Lab (Prof. Matthew K. Nock)
-  * Research intern
+    * Clinical and Developmental Psychology Lab (Prof. Matthew K. Nock)
+    * Research intern
 
 * 2015 - 2016 
   * **Department of Human Development, Cornell University**
-  * Rational Decision Making Laboratory (Prof. Valerie F. Reyna) – Advisee
-  * Health & Medical Decision Making Team – Research team leader
+    * Rational Decision Making Laboratory (Prof. Valerie F. Reyna) – Advisee
+    * Health & Medical Decision Making Team – Research team leader
 
 * 2013 - 2017
   * **Department of Psychology, Heidelberg University, Germany** 
-  * Decision Making and Problem-Solving Lab (Prof. Joachim Funke)
-  * Research assistant
+    * Decision Making and Problem-Solving Lab (Prof. Joachim Funke)
+    * Research assistant
 
 * 2013
   * **Marie-Curie ITN Program, Heidelberg University Hospital, Germany**
-  * ‘Towards an Embodied Science of Intersubjectivity’ (Prof. Thomas Fuchs)
-  * Research intern
+    * ‘Towards an Embodied Science of Intersubjectivity’ (Prof. Thomas Fuchs)
+    * Research intern
 
   * **Alzheimer’s Society, London, UK**
-  * Research intern to Matthew Murray, Dr. Douglas Brown, Dr. James Pickett
+    * Research intern to Matthew Murray, Dr. Douglas Brown, Dr. James Pickett
  
 Journal Articles
 ======
